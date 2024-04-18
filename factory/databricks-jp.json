@@ -1,0 +1,9 @@
+{
+	"name": "databricks-jp",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b669285-e6a3-40c0-86c1-29a3a4e29d45",
+		"tenantId": "68ca67d7-cd5c-42a8-978a-5ae4cba22a53"
+	}
+}
